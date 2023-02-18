@@ -393,3 +393,13 @@ Footer
 ===============
 */
 
+.hero {
+  height: 40vh;
+  background: url('../assets/header_image.jpg') center/cover no-repeat;
+}
+
+/*
+=============== 
+
+===============
+*/
